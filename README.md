@@ -1,4 +1,4 @@
-# Zing Open Source 3D Models
+# Zing Open Source 3D Models [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### DJI Phantom Parts
 ```
