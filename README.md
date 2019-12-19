@@ -1,5 +1,11 @@
 # Zing Open Source 3D Models [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### DJI Mavic Parts
+```
+Velcro Strap 1" x 12"
+[Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+
+```
 ### DJI Phantom Parts
 ```
 2x 5 16/18" Wing Nut
@@ -26,4 +32,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Disclaimer
-By using Zing products you agree to comply with all FAA (or similar regulatory bodies) regulations regarding drone flights and deliveries. It is your responsibility as the Remote Pilot In Command to research current regulations and only use these products in strict compliance as such. You acknowledge that Zing Drones LLC is not liable in any way for illegal activity, the loss of or damage to you drone, or damage/injury to people or property as a result of your flights. By downloading, you remove all liability from the provider of these 3D models, Zing Drones LLC and place it upon the downloader.
+By using Zing products you agree to comply with all FAA (or similar regulatory bodies) regulations regarding drone flights and deliveries. It is your responsibility as the Remote Pilot In Command to research current regulations and only use these products in strict compliance as such. You acknowledge that Zing Drones LLC is not liable in any way for illegal activity, the loss of or damage to you drone, or damage/injury to people or property as a result of your flights. By using these products, you remove all liability from the provider of these open sourced 3D models, Zing Drones LLC, and place it upon the downloader.
