@@ -2,10 +2,10 @@
 
 ### DJI Mavic Parts
 ```
-Velcro Strap 1" x 12"
+1x Velcro Strap 1" x 12"
+```
 [Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
-```
 ### DJI Phantom Parts
 ```
 2x 5 16/18" Wing Nut
