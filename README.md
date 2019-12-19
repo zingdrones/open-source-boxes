@@ -8,6 +8,12 @@
 2x 1/4" 1 1/4" Bolt
 ```
 
+### Instructions For Flight
+1. Before using the delivery box, you need to disable the bottom sensors of the Mavic from within your DJI Go 4 app's settings.
+2. Secure and center the drone delivery device directly underneath the drone.
+3. Take off by pressing both sticks inward and down inwards to start the propellers. Once the propellers are spinning, lift off with full vertical throttle.
+
+
 ## License
 The MIT License (MIT)
 
@@ -18,3 +24,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Disclaimer
+By using Zing products you agree to comply with all FAA (or similar regulatory bodies) regulations regarding drone flights and deliveries. It is your responsibility as the Remote Pilot In Command to research current regulations and only use these products in strict compliance as such. You acknowledge that Zing Drones LLC is not liable in any way for illegal activity, the loss of or damage to you drone, or damage/injury to people or property as a result of your flights. By downloading, you remove all liability from the provider of these 3D models, Zing Drones LLC and place it upon the downloader.
