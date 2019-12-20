@@ -13,7 +13,7 @@
 [Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 ## 3D Printing Instructions
 1. Open the STL files using your favorite slicer
-2. Generate GCODE files for your specific printer. No supports required.
+2. Generate GCODE files for your specific printer with at least 50% infill. No supports required.
 3. Print out the 3D boxes
 
 ## Instructions For Flight
