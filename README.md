@@ -1,5 +1,5 @@
 # Zing Open Source 3D Models [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-These lightweight and aerodynamic drone delivery boxes are compatible with all Mavic and Phantom model drones. They have been made avaiable for free by Zing to the community.
+These lightweight and aerodynamic drone delivery boxes are compatible with all Mavic and Phantom model drones. They have been made available for free by Zing to the community.
 
 ## DJI Phantom Parts
 ```
