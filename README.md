@@ -1,12 +1,4 @@
 # Zing Open Source 3D Models [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## DJI Mavic Parts
-```
-1x Velcro Strap 1" x 12"
-```
-[Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
-
----
 ## DJI Phantom Parts
 ```
 2x 5 16/18" Wing Nut
@@ -14,6 +6,11 @@
 2x 1/4" Hex Nut
 2x 1/4" 1 1/4" Bolt
 ```
+## DJI Mavic Parts
+```
+1x Velcro Strap 1" x 12"
+```
+[Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 ## 3D Printing Instructions
 1. Open the STL files using your favorite slicer
 2. Generate GCODE files for your specific printer. No supports required.
@@ -28,6 +25,9 @@
 1. Do not fly in high wind conditions
 2. Fly in ATTI mode for best control of the drone
 3. Always follow local regulations regarding drone deliveries
+
+## About Zing
+We build autonomous last mile delivery solutions compatible with the most common drones to help businesses around the globe reach new customers. Our mission is to enable drone deliveries at every location that currently utilizes cars or trucks for last mile deliveries. Learn more at [zingdrones.com](https://zingdrones.com)
 
 ---
 ## License
