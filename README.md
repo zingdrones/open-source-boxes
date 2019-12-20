@@ -15,9 +15,10 @@
 ```
 
 ### Instructions For Flight
-1. Before using the delivery box, you need to disable the bottom sensors of the Mavic from within your DJI Go 4 app's settings.
+1. Before using the delivery box, you need to disable the bottom sensors of the DJI Mavic or DJI Phantom from within your DJI Go 4 app's settings.
 2. Secure and center the drone delivery device directly underneath the drone.
 3. Take off by pressing both sticks inward and down inwards to start the propellers. Once the propellers are spinning, lift off with full vertical throttle.
+
 
 
 ## License
