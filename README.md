@@ -1,26 +1,35 @@
 # Zing Open Source 3D Models [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### DJI Mavic Parts
+## DJI Mavic Parts
 ```
 1x Velcro Strap 1" x 12"
 ```
 [Get it on Amazon](https://www.amazon.com/gp/product/B011WGG18A/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
-### DJI Phantom Parts
+---
+## DJI Phantom Parts
 ```
 2x 5 16/18" Wing Nut
 2x 5 16/18" 1/2" Bolt
 2x 1/4" Hex Nut
 2x 1/4" 1 1/4" Bolt
 ```
+## 3D Printing Instructions
+1. Open the STL files using your favorite slicer
+2. Generate GCODE files for your specific printer. No supports required.
+3. Print out the 3D boxes
 
-### Instructions For Flight
+## Instructions For Flight
 1. Before using the delivery box, you need to disable the bottom sensors of the DJI Mavic or DJI Phantom from within your DJI Go 4 app's settings.
 2. Secure and center the drone delivery device directly underneath the drone.
 3. Take off by pressing both sticks inward and down inwards to start the propellers. Once the propellers are spinning, lift off with full vertical throttle.
 
+## Tips
+1. Do not fly in high wind conditions
+2. Fly in ATTI mode for best control of the drone
+3. Always follow local regulations regarding drone deliveries
 
-
+---
 ## License
 The MIT License (MIT)
 
